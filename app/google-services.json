@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213620134369",
+    "project_id": "victor-rodriguezv2",
+    "storage_bucket": "victor-rodriguezv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213620134369:android:90daa455cd4037867882a0",
+        "android_client_info": {
+          "package_name": "com.example.victor_rodriguezv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213620134369-bvqgubjjvkomka68dl294b1t3qubk70m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0oqwHZTsBovgAnqGIvuK435SyeNxpuL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213620134369-bvqgubjjvkomka68dl294b1t3qubk70m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
